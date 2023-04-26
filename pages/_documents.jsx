@@ -3,8 +3,7 @@ import Document, { Html, Head, Main, NextScript } from "next/document";
 export default function MyDocument() {
   return (
     <Html>
-      <Head>
-        <title>D.Vincy</title>
+      <Head title="D.Vincy" >
         <meta name="description" content="D.Vincy portafolio Web Desinger"/>
       </Head>
       <body>

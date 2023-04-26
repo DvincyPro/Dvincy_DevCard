@@ -88,6 +88,7 @@ export const Experience =[
       image: "portfolio5.jpeg",
     },
   ];
+  
   export const Posts = [
     {
       title: "React",
